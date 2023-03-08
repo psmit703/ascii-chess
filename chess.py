@@ -8,7 +8,7 @@ class chessBoard:
     def __init__(self, p1=[], p2=[], turn=0, asAI=0):
         # turn represents the total number of turns taken
         # asAI represents the number of turns that p2 has taken while as an AI
-        # this enables tracking turn numbers even when switching between person and AI
+        # this enables tracking turn numbers even when switching p2 between person and AI
         self.turn = turn
         self.asAI = asAI
         r1 = []
