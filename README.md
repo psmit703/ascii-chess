@@ -1,2 +1,2 @@
-# ascii-chess
-Command Line ASCII Chess (Single/Multiplayer)
+# Command Line ASCII Chess
+Command Line ASCII Chess
